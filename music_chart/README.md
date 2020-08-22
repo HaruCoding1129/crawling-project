@@ -4,7 +4,7 @@ Crawling website melon chart and oricon chart with Selenium and bs4.
 
 
 ###### Melon Chart  
-![melon](./img/melson.JPG)
+![melon](./img/melon.JPG)
 
 
 ###### Oricon Chart  
